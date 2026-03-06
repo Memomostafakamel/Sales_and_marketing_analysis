@@ -29,18 +29,23 @@
 
 <hr/>
 
+## 📸 Project demo 
+
+https://github.com/user-attachments/assets/ccf8baf5-2f32-452b-8303-c7ee80206e17
+
+<hr/>
 
 ## 📸 Dashboard samples 
 
-# Dark mode:
+### Dark mode:
 <img width="1282" height="743" alt="Screenshot 2026-03-07 005317" src="https://github.com/user-attachments/assets/2500e864-f1e5-473a-8d81-a08dd4144908" />
 
-# Light mode:
+### Light mode:
 
 <img width="1279" height="745" alt="Screenshot 2026-03-07 005400" src="https://github.com/user-attachments/assets/828ed44b-0f82-4c61-bab5-2499e166121b" />
 
 
-https://github.com/user-attachments/assets/ccf8baf5-2f32-452b-8303-c7ee80206e17
+
 
 
 <hr/>
