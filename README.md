@@ -18,16 +18,16 @@ This project is a comprehensive Data Analysis and Visualization solution built w
 Advanced Data Modeling: Designed a robust Star Schema efficiently connecting 9 tables (Sales, Product, Store, Geography, etc.).
 
 
-# Targeted Dashboards: 
+### Targeted Dashboards: 
 Developed distinct, tailored views for C-Level Executives (Overview & Returns) and the Sales Team (Geography, Time, Promotions, Marketing).
 
-# Dynamic Calculations:
+### Dynamic Calculations:
 Created over 70 DAX measures to calculate KPIs, variance, and dynamic behavior.
 
-# Data Security: 
+### Data Security: 
 Implemented Row-Level Security (RLS) to restrict data access based on user roles (e.g., category-specific access).
 
-# Interactive UI/UX: 
+### Interactive UI/UX: 
 Applied professional storytelling design using Dark/Light modes, drill-through pages, custom tooltips, and bookmarks.
 
 
