@@ -23,7 +23,7 @@
 ## 📂 Files Included  
 
 - Documentation.pdf [Click here to view the report](Documentation.pdf) – Detailed documentation of the project
-- Presentation.zip [Click here to download the data](Presentation.zip)– Presentation of the project
+- Presentation.zip [Click here to download the report](Presentation.zip)– Presentation of the project
 - Figma_backgrounds.pdf [Click here to view the report](Figma_backgrounds.pdf)– Background designs created in Figma
 
 
