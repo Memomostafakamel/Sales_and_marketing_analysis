@@ -1,7 +1,7 @@
 # 📊 Sales_and_marketing_analysis
 
 ## 📌 Overview 
-
+This project is a comprehensive Data Analysis and Visualization solution built with Power BI. It transforms raw dataset into clear, actionable insights to support strategic decision-making for both C-Level executives and operational sales teams. The interactive dashboards track key business indicators including Sales, Orders, Profit, Returns, and Marketing Activities within a simulated real-world business environment.
 
 
 <hr/>
@@ -15,6 +15,17 @@
 
 ## 🌟 Project Highlights  
 
+Advanced Data Modeling: Designed a robust Star Schema efficiently connecting 9 tables (Sales, Product, Store, Geography, etc.).
+
+
+Targeted Dashboards: Developed distinct, tailored views for C-Level Executives (Overview & Returns) and the Sales Team (Geography, Time, Promotions, Marketing).
+
+
+Dynamic Calculations: Created over 70 DAX measures to calculate KPIs, variance, and dynamic behavior.
+
+Data Security: Implemented Row-Level Security (RLS) to restrict data access based on user roles (e.g., category-specific access).
+
+Interactive UI/UX: Applied professional storytelling design using Dark/Light modes, drill-through pages, custom tooltips, and bookmarks.
 
 
 
